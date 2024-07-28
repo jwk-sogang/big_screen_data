@@ -1,0 +1,8 @@
+How data is achieved and extracted:
+
+Downloaded every year’s pdf reports - under Victim characteristics -> ‘3.  Relationship of criminal and victim
+https://www.police.go.kr/user/bbs/BD_selectBbsList.do?q_bbsCode=1115&estnColumn2=%EB%85%84%EB%8F%84&q_searchKeyTy=estnColumn1___1001&q_searchVal=2021
+
+Extracted only columns, ‘Lover’ (interpreted as ‘Intimate Partner’; ‘IP’ in data) and ‘Domestic Relatives’  (‘DR’ in data) columns only
+
+* important: For the year 2011 and 2012, all rape and groping-related offenses are aggregated into the rape category. Category appears to have been added later than 2012.
