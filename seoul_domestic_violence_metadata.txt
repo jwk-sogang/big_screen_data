@@ -1,0 +1,27 @@
+<통계표 메타자료>
+
+○ 통계표ID : DT_201004_B030004
+
+○ 통계표명 : 가정폭력 발생현황
+
+○ 출처 : KOSIS(서울지방경찰청, 치안통계), 2024.07.28 16:01
+
+○ 통계표URL : https://stat.eseoul.go.kr/statHtml/statHtml.do?orgId=201&tblId=DT_201004_B030004&conn_path=I3
+              * 시스템 개편 시 통계표 URL은 달라질 수 있음
+
+○ 단위 : 10점척도 환산평균 값
+
+<Statistical Table Metadata
+
+○ Statistical table ID : DT_201004_B030004
+
+Statistic Name : Domestic Violence Incidence
+
+○ Source : KOSIS(Seoul Metropolitan Police Agency, Security Statistics), 2024.07.28 16:01
+
+Statistical table URL : https://stat.eseoul.go.kr/statHtml/statHtml.do?orgId=201&tblId=DT_201004_B030004&conn_path=I3
+              * The URL of the statistical table may change when the system is reorganized.
+
+Unit: Average value on a 10-point scale
+
+Translated with DeepL.com (free version)
