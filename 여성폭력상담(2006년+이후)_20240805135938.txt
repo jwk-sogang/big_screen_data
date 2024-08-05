@@ -1,0 +1,26 @@
+○ 통계표ID	DT_201004_O110037_02
+○ 통계표명	여성폭력상담(2006년 이후)
+○ 조회기간	[년] 2006~2023  
+○ 출처	서울특별시, 서울특별시기본통계
+○ 자료다운일자	2024.08.05 14:01
+○ 통계표URL	https://stat.eseoul.go.kr/statHtml/statHtml.do?orgId=201&tblId=DT_201004_O110037_02&conn_path=I3
+	* 시스템 개편 시 통계표 URL은 달라질 수 있음
+○ 주석	
+통계표	* 2007년부터 민간단체 상담소 포함
+	* 피해자 지원내역건수는 중복지원 가능
+	* 기타에 가정폭력 피해회복 프로그램 포함
+	* 2019년부터 가정폭력상담소와 성폭력상담소의 상담건수 중 데이트폭력, 스토킹 상담건수 별도 표기
+
+○ Statistical table ID:  DT_201004_O110037_02
+○ Statistic Name : Violence against women counseling (since 2006)
+○ Inquiry period [years] 2006~2023  
+○ Source Seoul Metropolitan Government, Seoul Basic Statistics
+○ Data download date 2024.08.05 14:01
+Statistical table URL https://stat.eseoul.go.kr/statHtml/statHtml.do?orgId=201&tblId=DT_201004_O110037_02&conn_path=I3
+	* The URL of the statistical table may change when the system is reorganized.
+○ Comments	
+Statistical table * Includes counseling centers of private organizations since 2007
+	* The number of victim support cases can be duplicated
+	* Includes domestic violence recovery programs under Other
+	* From 2019, the number of domestic violence counseling centers and sexual assault counseling centers is separated from the number of dating violence and stalking counseling centers.
+
